@@ -1,6 +1,6 @@
 # NTi Data Provider
 
-Current version: `3.0.0` (29-04-2024)
+Current version: `3.0.0` (02-05-2024)
 
 ## [About NTi](https://www.aumerial.com)
 

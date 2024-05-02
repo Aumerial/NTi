@@ -1,8 +1,10 @@
 # NTi Data Provider
 
-Current version: `3.0.0` (02-05-2024)
+Version courante: `3.0.0` (02-05-2024)
 
-## [About NTi](https://www.aumerial.com)
+##[Signaler un problème](https://github.com/Aumerial/NTi/issues)
+
+## [À propos de NTi](https://www.aumerial.com)
 
 ## [Documentation](https://www.documentation.aumerial.com)
 
@@ -10,7 +12,7 @@ Current version: `3.0.0` (02-05-2024)
 
 ## Release Notes:
 
-| Version | Comment                       |
+| Version | Comments                      |
 | ------- | ----------------------------- |
 | 0.x     | Alpha                         |
 | 1.x.x   | Pre-releases                  |

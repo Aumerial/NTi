@@ -2,7 +2,7 @@
 
 Version courante: `3.0.0` (02-05-2024)
 
-##[Signaler un problème](https://github.com/Aumerial/NTi/issues)
+## [Signaler un problème](https://github.com/Aumerial/NTi/issues)
 
 ## [À propos de NTi](https://www.aumerial.com)
 

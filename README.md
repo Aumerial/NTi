@@ -6,6 +6,8 @@ Current version: `3.0.0` (29-04-2024)
 
 ## [Documentation](https://www.documentation.aumerial.com)
 
+## [Wiki](https://github.com/Aumerial/NTi/wiki)
+
 ## Release Notes:
 
 | Version | Comment                       |

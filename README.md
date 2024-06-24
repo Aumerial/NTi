@@ -1,6 +1,6 @@
 # NTi Data Provider
 
-Version courante: `3.0.0` (02-05-2024)
+Version courante: `3.0.5` (24-06-2024)
 
 ## [Signaler un problème](https://github.com/Aumerial/NTi/issues)
 
